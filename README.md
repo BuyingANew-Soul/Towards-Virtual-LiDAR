@@ -1,6 +1,6 @@
 # Virtual LiDAR: Depth Estimation Using Aerial Laser Scans
 
-## This repository implements a system for generating depth maps from a ground vehicle's perspective by combining aerial laser scanning (ALS) data with ground-level camera imagery. The goal is to simulate LiDAR depth perception (i.e., "Virtual LiDAR") for use in autonomous driving research, offering a low-cost alternative to onboard LiDAR sensors.
+## This repository implements a system for generating depth maps from a ground vehicle's perspective aerial laser scanning (ALS) data on ground-level camera imagery. The goal is to simulate LiDAR depth perception (i.e., "Virtual LiDAR") for use in autonomous driving research, offering a low-cost alternative to onboard LiDAR sensors.
 
 ---
 
