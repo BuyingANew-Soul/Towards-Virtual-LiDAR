@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from scipy import stats
 
 import utils.io_utils as io
-from meshing_new import compute_mesh
+from meshing import compute_mesh
 from rendering import render_depth
 
 # python depth_from_aerial.py input/images/image_1556192549.936944088.png --output_dir='output/image_'
